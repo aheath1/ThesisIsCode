@@ -1,6 +1,6 @@
 ---
 title: My Thesis
-author: You
+author: Abigail Heath
 output:
   html_document: null
 bibliography: bibliography/bibliography.bib
